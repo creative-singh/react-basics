@@ -1,0 +1,16 @@
+.board {
+  display: grid;
+  grid-template-columns: repeat(3, 80px);
+  gap: 5px;
+}
+
+/* Board Rows */
+.board-row {
+  display: flex;
+}
+
+.status {
+  font-size: 22px;
+  font-weight: bold;
+  margin-bottom: 15px;
+}
