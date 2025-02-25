@@ -10,3 +10,8 @@
   color: white;
 }
 
+@media (max-width: 768px) {
+  .App {
+    font-size: calc(8px + 2vmin);
+  }
+}

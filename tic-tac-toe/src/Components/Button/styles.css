@@ -24,3 +24,19 @@
   outline: none;
   background: #ddd;
 }
+
+@media (max-width: 768px) {
+  .square {
+    width: 70px;
+    height: 70px;
+    font-size: 28px;
+  }
+}
+
+@media (max-width: 480px) {
+  .square {
+    width: 60px;
+    height: 60px;
+    font-size: 24px;
+  }
+}

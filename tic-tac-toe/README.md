@@ -1,3 +1,8 @@
-# Tic Tac Toe Game
+# Payment Gateways
 
-https://creative-tic-tac.netlify.app/
+In Process
+- Stripe 
+
+Will be completing
+- Paypal
+- RazorPay

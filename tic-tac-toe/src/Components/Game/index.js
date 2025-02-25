@@ -1,6 +1,4 @@
-import React, { useState } from 'react'
-import Swal from "sweetalert2";
-import confetti from "canvas-confetti";
+import { useState } from 'react'
 
 import Board from '../Board'
 
