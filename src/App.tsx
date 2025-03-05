@@ -72,7 +72,7 @@ function App() {
 
           <div>
             <h3 className="text-xl font-semibold text-gray-800">Articled Assistant</h3>
-            <p className="text-gray-600 italic">VAAR Corporate Solution Pvt Ltd (HR EASE) | MAY 2021 - JUL 2022</p>
+            <p className="text-gray-600 italic">VAAR Corporate Solution Pvt Ltd (HR EASE) | MAR 2021 - JUL 2022</p>
             <ul className="mt-4 space-y-2 text-gray-700 list-disc list-inside">
               <li>Assisted in Accounting and Auditing functions, including vouching and verification.</li>
               <li>Managed TDS compliance and Income Tax Return filing for corporate and non-corporate entities.</li>
