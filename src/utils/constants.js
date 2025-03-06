@@ -70,3 +70,5 @@ export default resList = [
       "https://media-assets.swiggy.com/swiggy/image/upload/fl_lossy,f_auto,q_auto,w_1024/wzbo5xivr8hstl0vxzcm",
   },
 ];
+
+
