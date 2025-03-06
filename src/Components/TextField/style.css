@@ -1,0 +1,35 @@
+/* Input Field Styles */
+.input-field {
+  width: 100%;
+  max-width: 300px;
+  padding: 10px 15px;
+  border: 1px solid #61dafb;
+  border-radius: 5px;
+  background-color: #222;
+  color: white;
+  font-size: 16px;
+  transition: border-color 0.3s ease, box-shadow 0.3s ease;
+}
+
+.input-field:focus {
+  outline: none;
+  border-color: #4fa3d1;
+  box-shadow: 0 0 5px rgba(97, 218, 251, 0.5);
+}
+
+.input-field::placeholder {
+  color: #aaa;
+  font-size: 14px;
+}
+
+.input-group {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+/* Input with Icon */
+.input-group .icon {
+  color: #61dafb;
+  font-size: 20px;
+}

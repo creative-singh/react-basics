@@ -1,0 +1,34 @@
+.filter-button {
+  background-color: #222;
+  width: 170px;
+  color: #61dafb;
+  padding: 10px 15px;
+  border: 1px solid #61dafb;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.filter-button:hover {
+  background-color: #61dafb;
+  color: black;
+}
+
+.reset-filter-button {
+  background-color: #61dafb;
+  width: 170px;
+  color: #222;
+  padding: 10px 15px;
+  border: 1px solid #222;
+  border-radius: 5px;
+  cursor: pointer;
+  font-size: 14px;
+  transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+.reset-filter-button:hover {
+  background-color: black;
+  border: 1px solid #61dafb;
+  color: #61dafb;
+}
