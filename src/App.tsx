@@ -45,7 +45,7 @@ function App() {
             Profile Summary
           </h2>
           <p className="text-gray-700 leading-relaxed">
-            Detail-oriented 3+ years of experience in tax compliance, ITR & GST filings, auditing, & company formations. 
+            Detail-oriented 4+ years of experience in tax compliance, ITR & GST filings, auditing, & company formations. 
             Skilled in leveraging accounting software to ensure regulatory adherence and financial accuracy. 
             Proven track record in assisting clients with taxation compliance & providing comprehensive accounting and finance support.
           </p>
@@ -67,6 +67,17 @@ function App() {
               <li>Preparing Financial Statements, including Balance Sheets, P&L, and Cash Flow Statements.</li>
               <li>Assisting in Tax Audits and filing forms 3CA/3CB and 3CD.</li>
               <li>Drafting and filing legal compliance forms.</li>
+            </ul>
+          </div>
+
+          <div className="mb-8">
+            <h3 className="text-xl font-semibold text-gray-800">Accounts Executive</h3>
+            <p className="text-gray-600 italic">OnCloud Account-Ants Pvt Ltd | AUG 2022 - MAR 2023</p>
+            <ul className="mt-4 space-y-2 text-gray-700 list-disc list-inside">
+              <li>Maintained client books, ledgers using Tally ERP software.</li>
+              <li>Finalized monthly, annual financials—P&L, balance sheet, cash flow.</li>
+              <li>Filed ROC forms AOC-4, MGT-7 for compliance.</li>
+              <li>Filed TDS returns, issued certificates, ensured timely deposits.</li>
             </ul>
           </div>
 
