@@ -1,5 +1,7 @@
 # React Basics
 
+This repo will manage all react basics apps. 
+
 ## Food Order
 https://fire-food-creative.netlify.app/
 
